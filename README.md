@@ -22,8 +22,8 @@ A structured debate system between two AI agents (Scientist vs Philosopher) usin
    pip install -r requirements.txt
    ```
 4. Set up environment variables:
-   - Copy `.env.example` to `.env` (if provided, or just set `OPENAI_API_KEY`).
-   - Or set `OPENAI_API_KEY` in your shell.
+   - Copy `.env.example` to `.env` (if provided, or just set `GEMINI_API_KEY`).
+   - Or set `GEMINI_API_KEY` in your shell.
 
 ## Usage
 
